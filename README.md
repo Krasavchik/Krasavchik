@@ -23,17 +23,6 @@ At **Serena**, we analyzed **25 years of data** on VC-backed Open Source startup
 
 ---
 
-### TL;DR
-
-**Open Source isn’t just a development model—it's a superior financial strategy for software companies.**
-
-The next big question:  
-**Where does Open Source win next?**
-
-As trust, security, sovereignty, and innovation become more critical, we believe Open Source will lead in even more categories.
-
----
-
 🚀 **If you're building in Open Source, let's talk.**  
 📄 [Read the full report](https://cossreport.com/)
 📄 [Read the Article](https://blog.serenacapital.com/the-open-source-payoff-5e835c54c0f1)
